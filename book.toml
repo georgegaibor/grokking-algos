@@ -1,0 +1,8 @@
+[book]
+authors = ["georgegaibor"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Grokkings Algorithms Notes"
+[output.html]
+mathjax-support = true
