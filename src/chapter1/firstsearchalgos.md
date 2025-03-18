@@ -22,3 +22,9 @@ Searching for `item`
 5. If guess is too low, update lower limit
 6. Search again until found
 7. If not found, return `null`
+
+<details><summary><b>REMINDERS</b></summary>
+
+> Binary search is faster than simple search as the dataset grows
+
+</details>
