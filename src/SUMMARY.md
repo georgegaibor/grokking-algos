@@ -6,3 +6,4 @@
 - [Chapter 2 - Selection Sort](./chapter2/intro.md)
     - [Arrays and Linked Lists](./chapter2/arrays-and-lls.md)
     - [Exercises](./chapter2/exercises.md)
+    - [Selection Sort](./chapter2/selection-sort.md)
