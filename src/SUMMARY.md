@@ -7,3 +7,8 @@
     - [Arrays and Linked Lists](./chapter2/arrays-and-lls.md)
     - [Exercises](./chapter2/exercises.md)
     - [Selection Sort](./chapter2/selection-sort.md)
+- [Chapter 3 - Recursion](./chapter3/intro.md)
+    - [Recursion](./chapter3/recursion.md)
+    - [The Stacks](./chapter3/stacks.md)
+    - [Exercises](./chapter3/exercises.md)
+

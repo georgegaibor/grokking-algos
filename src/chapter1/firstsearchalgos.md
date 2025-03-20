@@ -46,4 +46,6 @@ def binary_search(array, target):
 
 > Binary search is faster than simple search as the dataset grows
 
+> `COMPLEXITY:` \\(O(log(n))\\)
+
 </details>
